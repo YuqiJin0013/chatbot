@@ -8,4 +8,4 @@
 * Load the data
 * preprocess the data including plots
 * Trim the data including plots
-* Start training the seq2seq model
+* Train the seq2seq model including accuracy and f1 score
