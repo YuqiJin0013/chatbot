@@ -9,4 +9,5 @@
 * preprocess the data including plots
 * Trim the data including plots
 * Train the seq2seq model including accuracy and f1 score
-
+## Instructions
+*
