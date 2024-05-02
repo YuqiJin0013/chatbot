@@ -18,6 +18,11 @@ Highly recommend run on Google Colab
 If run on vscode or other platforms
 * git clone (Clone the repository to your local machine)
 * cd repository
-* 
+* python -m venv venv :Create a virtual environment (optional but recommended)
+* venv\Scripts\activate (Windows) | source venv/bin/activate (Mac/Linux)
+* pip install -r requirements.txt
 
-##
+
+
+
+
