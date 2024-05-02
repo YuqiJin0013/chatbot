@@ -13,6 +13,9 @@ Implement the following models to accomplish the interaction of chatbot
 * Seq2Seq model (keras_seq2seq_model.ipynb)
 * Transformer model (Transformer_model.ipynb)
 
+## Presentation Slides Link
+https://docs.google.com/presentation/d/1i-PE9bpb8WS-UreJv23ItzlQcMtA9nyLwyAFWNCOXxw/edit?usp=sharing
+
 ## Installation Instructions
 Highly recommend run on Google Colab.
 Steps shown below 
