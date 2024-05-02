@@ -15,7 +15,7 @@ Implement the following models to accomplish the interaction of chatbot
 
 ## Installation Instructions
 Highly recommend run on Google Colab
-If run on vscode or other platforms
+If run on vscode or other platforms steps shown below
 * git clone (Clone the repository to your local machine)
 * cd repository
 * python -m venv venv :Create a virtual environment (optional but recommended)
