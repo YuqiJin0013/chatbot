@@ -21,7 +21,7 @@ Steps shown below
 * python -m venv venv :Create a virtual environment (optional but recommended)
 * venv\Scripts\activate (Windows) | source venv/bin/activate (Mac/Linux)
 * pip install -r requirements.txt
-* Navigate the repo
+* navigate the repo
 * run files in your terminal or use Google Colab, vscode or others 
 
 
