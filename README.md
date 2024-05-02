@@ -14,13 +14,15 @@ Implement the following models to accomplish the interaction of chatbot
 * Transformer model (Transformer_model.ipynb)
 
 ## Installation Instructions
-Highly recommend run on Google Colab
-If run on vscode or other platforms steps shown below
+Highly recommend run on Google Colab.
+Steps shown below 
 * git clone (Clone the repository to your local machine)
 * cd repository
 * python -m venv venv :Create a virtual environment (optional but recommended)
 * venv\Scripts\activate (Windows) | source venv/bin/activate (Mac/Linux)
 * pip install -r requirements.txt
+* Navigate the repo
+* run files in your terminal or use Google Colab, vscode or others 
 
 
 
